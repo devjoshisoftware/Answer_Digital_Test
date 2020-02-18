@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9c6f55d-7708-483a-bede-ac18078b2435" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Answer_Digital_Test/TestSuit.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="72" column="85" selection-start-line="72" selection-start-column="85" selection-end-line="72" selection-end-column="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Answer_Digital_Test/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Answer_Digital_Test/TestSuit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Answer_Digital_Test/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/TestData/testDataConfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer_Digital_Test/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer_Digital_Test/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer_Digital_Test/BrowserSelector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer_Digital_Test/LoadProps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Answer_Digital_Test/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Answer_Digital_Test/TestSuit.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Answer_Digital_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Answer_Digital_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\devjo\IdeaProjects\Answer_Digital_Test\src\test\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit">
+    <configuration name="TestCase_1.UserShouldBeAbleToLoginWithCorrectCredentialAndAbleToLogoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Answer_Digital_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answer_Digital_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Answer_Digital_Test" />
+      <option name="MAIN_CLASS_NAME" value="Answer_Digital_Test.TestCase_1" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToLoginWithCorrectCredentialAndAbleToLogoutSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Answer_Digital_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answer_Digital_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Answer_Digital_Test" />
+      <option name="MAIN_CLASS_NAME" value="Answer_Digital_Test.TestSuit" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.clickOn4KeysAndAssertTheTextDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Answer_Digital_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answer_Digital_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Answer_Digital_Test" />
+      <option name="MAIN_CLASS_NAME" value="Answer_Digital_Test.TestSuit" />
+      <option name="METHOD_NAME" value="clickOn4KeysAndAssertTheTextDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.clickOnInfiniteScrollToBottomOfThePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Answer_Digital_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answer_Digital_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Answer_Digital_Test" />
+      <option name="MAIN_CLASS_NAME" value="Answer_Digital_Test.TestSuit" />
+      <option name="METHOD_NAME" value="clickOnInfiniteScrollToBottomOfThePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldNotBeAbleToLogInWithCorrectCredential" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Answer_Digital_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Answer_Digital_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Answer_Digital_Test" />
+      <option name="MAIN_CLASS_NAME" value="Answer_Digital_Test.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldNotBeAbleToLogInWithCorrectCredential" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit" />
+        <item itemvalue="TestNG.TestSuit.clickOnInfiniteScrollToBottomOfThePage" />
+        <item itemvalue="TestNG.TestCase_1.UserShouldBeAbleToLoginWithCorrectCredentialAndAbleToLogoutSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.clickOn4KeysAndAssertTheTextDisplayed" />
+        <item itemvalue="TestNG.TestSuit.userShouldNotBeAbleToLogInWithCorrectCredential" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c6f55d-7708-483a-bede-ac18078b2435" name="Default Changelist" comment="" />
+      <created>1581955224377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581955224377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSuit_clickOnInfiniteScrollToBottomOfThePage - 2020.02.18 at 00h 39m 40s.xml">
+      <configuration name="TestSuit.clickOnInfiniteScrollToBottomOfThePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_clickOn4KeysAndAssertTheTextDisplayed - 2020.02.18 at 00h 40m 02s.xml">
+      <configuration name="TestSuit.clickOn4KeysAndAssertTheTextDisplayed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_clickOnInfiniteScrollToBottomOfThePage - 2020.02.18 at 00h 50m 10s.xml">
+      <configuration name="TestSuit.clickOnInfiniteScrollToBottomOfThePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_clickOnInfiniteScrollToBottomOfThePage - 2020.02.18 at 00h 50m 32s.xml">
+      <configuration name="TestSuit.clickOnInfiniteScrollToBottomOfThePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_clickOnInfiniteScrollToBottomOfThePage - 2020.02.18 at 00h 51m 47s.xml">
+      <configuration name="TestSuit.clickOnInfiniteScrollToBottomOfThePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_clickOnInfiniteScrollToBottomOfThePage - 2020.02.18 at 00h 52m 33s.xml">
+      <configuration name="TestSuit.clickOnInfiniteScrollToBottomOfThePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCase_1_UserShouldBeAbleToLoginWithCorrectCredentialAndAbleToLogoutSuccessfully - 2020.02.18 at 12h 47m 36s.xml">
+      <configuration name="TestCase_1.UserShouldBeAbleToLoginWithCorrectCredentialAndAbleToLogoutSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCase_1_UserShouldBeAbleToLoginWithCorrectCredentialAndAbleToLogoutSuccessfully - 2020.02.18 at 12h 48m 55s.xml">
+      <configuration name="TestCase_1.UserShouldBeAbleToLoginWithCorrectCredentialAndAbleToLogoutSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_clickOnInfiniteScrollToBottomOfThePage - 2020.02.18 at 13h 06m 23s.xml">
+      <configuration name="TestSuit.clickOnInfiniteScrollToBottomOfThePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit - 2020.02.18 at 13h 09m 11s.xml">
+      <configuration name="TestSuit" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17718121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.1756374" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0/testng-7.0.0.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/BrowserDriver/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Answer_Digital_Test/Hooks.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/TestData/TestDataConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/BrowserSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/LoadProps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Answer_Digital_Test/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Answer_Digital_Test/TestSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Answer_Digital_Test/TestCase_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="72" column="85" selection-start-line="72" selection-start-column="85" selection-end-line="72" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_221</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
